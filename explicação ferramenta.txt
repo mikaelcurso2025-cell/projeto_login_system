@@ -1,0 +1,5 @@
+node.js permite usar JS fora do navagador 
+npm é o gerenciador de pacotes do JS
+Docker
+npm init -y (cria o arquivo package.json)
+npm install express(cria as nossas rotas com o servidor http)
